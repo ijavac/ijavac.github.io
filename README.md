@@ -1,3 +1,2 @@
 # ijavac.github.io
- This is the official github page
- The core of this github account is this page
+ This is the official host server for <a href="https://github.com/idea-code">Idea Code</a>
